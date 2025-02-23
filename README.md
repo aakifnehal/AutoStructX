@@ -1,4 +1,4 @@
-# Automated Precast Road Infrastructure Dashboard
+# AAutoStructX
 
 Welcome to the repository for the **AutoStructX**, a real-time complete solution designed to manage and monitor automated construction operations, such as gluing and prestressing tendon placement. This project is part of the **L&T Hackathon**, aimed at advancing the future of construction with automation, AI, and real-time monitoring. 🏗️🚀
 
